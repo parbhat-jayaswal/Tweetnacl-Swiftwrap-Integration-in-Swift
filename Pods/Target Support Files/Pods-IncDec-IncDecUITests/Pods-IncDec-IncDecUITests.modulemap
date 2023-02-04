@@ -1,0 +1,6 @@
+framework module Pods_IncDec_IncDecUITests {
+  umbrella header "Pods-IncDec-IncDecUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
